@@ -1,5 +1,6 @@
 # tas5825m_voluem_control_cpp
 
-Usage: 
-tas5825m_vol_control g
-tas5825m_vol_control s <volume>
+###### Usage: <br />
+###### tas5825m_vol_control g <br />  
+###### tas5825m_vol_control s "volume" <br />
+  
