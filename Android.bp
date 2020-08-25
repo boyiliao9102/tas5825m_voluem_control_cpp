@@ -1,0 +1,5 @@
+cc_binary {
+    name: "tas5825m_vol_control",
+    srcs: ["tas5825m_main_control.cpp","tas5825m_control.cpp"],
+    cflags: ["-Werror"],
+}
